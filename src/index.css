@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: helvetica;
+}
+
+::selection{
+  color: rgb(0, 68, 203);
+}
